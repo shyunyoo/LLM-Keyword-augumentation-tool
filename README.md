@@ -23,7 +23,7 @@ This is a web-based interactive tool designed for a digital forensics user study
 .
 ├── app.py                  # Main Streamlit application script
 ├── requirements.txt        # Python dependencies
-├── .env                    # Environment variables (e.g., API key) - DO NOT COMMIT
+├── .env                    # Environment variables (e.g., API key) - PREPARE TO USE
 ├── dataset.csv             # The dataset of files to be searched
 └── logs/                   # Directory where user activity logs are stored
     └── phase_b/
